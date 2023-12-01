@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Flood_Forecasting/static/css/main.07063f94.css",
+    "main.js": "/Flood_Forecasting/static/js/main.776d0f4f.js",
+    "static/media/Aman.jpeg": "/Flood_Forecasting/static/media/Aman.f92378d39f47d2deeda8.jpeg",
+    "static/media/Yuvraj.jpeg": "/Flood_Forecasting/static/media/Yuvraj.8b0e3bffb767e642f63f.jpeg",
+    "static/media/Abhinav.jpeg": "/Flood_Forecasting/static/media/Abhinav.669a5e014347feebb085.jpeg",
+    "static/media/Preetam.jpeg": "/Flood_Forecasting/static/media/Preetam.c92bdb278262e5ebca4d.jpeg",
+    "static/media/Hiren.jpeg": "/Flood_Forecasting/static/media/Hiren.8dac0884ee5bc567a906.jpeg",
+    "static/media/Vimal Mishra.jpeg": "/Flood_Forecasting/static/media/Vimal Mishra.b5406fcecbdeb5b5c530.jpeg",
+    "index.html": "/Flood_Forecasting/index.html",
+    "main.07063f94.css.map": "/Flood_Forecasting/static/css/main.07063f94.css.map",
+    "main.776d0f4f.js.map": "/Flood_Forecasting/static/js/main.776d0f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07063f94.css",
+    "static/js/main.776d0f4f.js"
+  ]
+}
